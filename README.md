@@ -11,6 +11,6 @@ jdk:
  ______________________ 
 language: java
 jdk:
-    - openjdk8
-  before_install:
-    - chmod +x mvnw
+   - openjdk8
+before_install:
+   - chmod +x mvnw
